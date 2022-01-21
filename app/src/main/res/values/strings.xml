@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MayQontaqt</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ogabek_matyakubov">Ogabek Matyakubov</string>
+    <string name="ogabekdev">OgabekDev</string>
+    <string name="full_name">FullName</string>
+    <string name="username">Username</string>
+    <string name="back">Back</string>
+    <string name="telephone_number">Telephone Number</string>
+</resources>
